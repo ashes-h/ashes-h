@@ -2,6 +2,7 @@
 
 ## Introduction
 안녕하세요
+
 통계학과 21학번 박재현이라고 합니다.
 
 ## Career
